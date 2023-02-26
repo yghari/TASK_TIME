@@ -1,0 +1,11 @@
+once the program start write the name of the task you wanna do in the input then press enter :
+when you finish the task print another enter :
+after that writ 'q' to quit the program and read the summary !! enjoy :)
+
+
+example :
+
+Enter a task name (or 'q' to quit): Starting task '100 push ups' at Sun Feb 26 23:02:25 2023
+Press enter when you're done with the task.Ending task '100 push ups' at Sun Feb 26 23:04:07 2023
+Enter a task name (or 'q' to quit): Task summary:
+100 push ups: 102 seconds
